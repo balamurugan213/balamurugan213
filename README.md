@@ -5,7 +5,7 @@
 
 # Hi there 👋 I am Balamurugan213
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=balamurugan213&include_all_commits=true&count_private=true&show_icons=true&line_height=33.5&title_color=F15F86&icon_color=F15F86&text_color=7180F4&bg_color=0,141E30,243B55" alt="Balamurugan's Github Stats">
+<img align="" src="https://github-readme-stats.vercel.app/api?username=balamurugan213&include_all_commits=true&count_private=true&show_icons=true&line_height=23.5&title_color=F15F86&icon_color=F15F86&text_color=7180F4&bg_color=0,141E30,243B55" alt="Balamurugan's Github Stats">
 
 ## 🖥️ I’m currently working on
 
