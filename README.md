@@ -24,22 +24,22 @@
 
 <p > 
   <a href="https://twitter.com/Balamurugan_213" target="_blank" style="padding:10px"> 
-    <img src="./assets/bird_logo_twitter_icon.svg" alt="html5" width="30" height="30"/> 
+    <img src="./Assets/bird_logo_twitter_icon.svg" alt="twitter" width="30" height="30"/> 
   </a>
   <a href="https://www.instagram.com/balamurugan213_/" target="_blank" style="padding:10px"> 
-    <img src="./assets/instagram_logo_icon.svg" alt="css3" width="30" height="30"/> 
+    <img src="./Assets/instagram_logo_icon.svg" alt="instagram" width="30" height="30"/> 
   </a> 
   <a href="https://www.linkedin.com/in/balamurugan213/" target="_blank" style="padding:10px"> 
-    <img src="./assets/linkedin_logo_icon.svg" alt="python" width="30" height="30"/> 
+    <img src="./Assets/linkedin_logo_icon.svg" alt="linkedin" width="30" height="30"/> 
   </a>  
    <!-- <a href="https://www.linux.org/" target="_blank" style="padding:10px"> 
     <img src="./assets/email_envelope_gmail_letter_logo_icon.svg" alt="linux" width="30" height="30"/> 
   </a>  -->
   <a href="https://github.com/balamurugan213" target="_blank" style="padding:10px"> 
-    <img src="./assets/github_logo_icon.svg" alt="javascript" width="30" height="30"/> 
+    <img src="./Assets/github_logo_icon.svg" alt="github" width="30" height="30"/> 
   </a> 
   <a href="https://id.pinterest.com/balamurugan213/_saved/" target="_blank" style="padding:10px"> 
-    <img src="./assets/logo_pin_pinterest_icon.svg" alt="git" width="30" height="30"/> 
+    <img src="./Assets/logo_pin_pinterest_icon.svg" alt="pinterest" width="30" height="30"/> 
   </a>
 </p>
 
